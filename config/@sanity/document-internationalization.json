@@ -1,0 +1,8 @@
+{
+    "idStructure": "delimiter",
+    "referenceBehavior": "strong",
+    "languages": [
+        {"id": "en", "title": "English"},
+        {"id": "fr", "title": "French"}
+    ]
+}
